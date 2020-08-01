@@ -1,22 +1,21 @@
 <div align="center">
-  <img
-    src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bd36f2f_6-6-project-building-sentiment-analysis-model/6-6-project-building-sentiment-analysis-model.jpg"
-    height="300"
-    width="300"
-  />
-  
-  <br />
-  <h1>Deploying a Sentiment Analysis Model</h1>
+<img src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bd36f2f_6-6-project-building-sentiment-analysis-model/6-6-project-building-sentiment-analysis-model.jpg" height="300" width="300" />
+<br />
+<h1>Deploying a Sentiment Analysis Model</h1>
 </div>
 
-![license](https://img.shields.io/badge/LICENSE-MIT-blue.svg?style=flat-square)
+## Project Overview
 
-## License
+In this project, I have constructed a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. I have created this model using Amazon's SageMaker service. In addition, I have deployed my model and constructed a simple web app which will interact with the deployed model.
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-# SageMaker Deployment Project
+## SageMaker Deployment Project
 
 The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+
+<a href="https://mybinder.org/v2/gh/iamrajiv/Deploying-a-Sentiment-Analysis-Model/master"><img align="center" src="https://mybinder.org/static/logo.svg" /></a>
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
