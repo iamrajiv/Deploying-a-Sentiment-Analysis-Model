@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-In this project, I have constructed a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. I have created this model using Amazon's SageMaker service. In addition, I have deployed my model and constructed a simple web app which will interact with the deployed model.
+In this project, I have constructed a recurrent neural network to determine the sentiment of a movie review using the IMDB data set. I have created this model using Amazon's SageMaker service. Also, I have deployed my model and constructed a simple web app which will interact with the deployed model.
 
 ## SageMaker Deployment Project
 
@@ -14,7 +14,7 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
-<a href="https://mybinder.org/v2/gh/iamrajiv/Deploying-a-Sentiment-Analysis-Model/master"><img align="center" src="https://mybinder.org/static/logo.svg" /></a>
+<a href="https://mybinder.org/v2/gh/iamrajiv/Deploying-a-Sentiment-Analysis-Model/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="220"/></a>
 
 ## License
 
