@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bd36f2f_6-6-project-building-sentiment-analysis-model/6-6-project-building-sentiment-analysis-model.jpg" height="300" width="300" />
+<img src="assets/Deploying-a-Sentiment-Analysis-Model.jpg" height="300" width="300" />
 <br />
 <h1>Deploying a Sentiment Analysis Model</h1>
 </div>
