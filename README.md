@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/Deploying-a-Sentiment-Analysis-Model.jpg" height="300" width="300" />
+<img src="assets/Deploying-a-Sentiment-Analysis-Model.jpg" width="300" />
 <br />
 <h1>Deploying a Sentiment Analysis Model</h1>
 </div>
