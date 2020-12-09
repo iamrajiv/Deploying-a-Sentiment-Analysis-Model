@@ -14,7 +14,7 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
-<a href="https://mybinder.org/v2/gh/iamrajiv/Deploying-a-Sentiment-Analysis-Model/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="220" /></a>
+<a href="https://mybinder.org/v2/gh/iamrajiv/Deploying-a-Sentiment-Analysis-Model/master"><img src="https://mybinder.org/static/logo.svg" width="220" /></a>
 
 ## License
 
